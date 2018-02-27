@@ -1,0 +1,24 @@
+﻿.header{
+    height: 10rem;
+    background-color: black;
+}
+.col{
+    height: 10rem;
+    background-color: red;
+}
+.sub_col{
+    height: 10rem;
+    background-color: blue;
+}
+.sidebar{
+    height: 20rem;
+    background-color: green;
+}
+.sub_col2{
+    background-color: yellow;
+    height: 10rem;
+}
+.sub_col3{
+    background-color: purple;
+    height: 10rem;
+}

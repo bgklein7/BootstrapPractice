@@ -95,11 +95,15 @@
         }
 
     .hover-fold .bottom {
-        background-image: url('ImageRepository/rsz_img_2568.jpg');
+        background-image: url('ImageRepository/rsz_img_2568.jpg'); bottom;
         height: 50%;
         position: absolute;
         top: 50%;
         width: 100%;
         z-index: 0;
     }
-
+.sidebar2 {
+    background-image: url('ImageRepository/rsz_gadget.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
